@@ -70,9 +70,16 @@
 
 ## 📸 Screenshots
 
-> _(Add some screenshots of chat, group, video call, and AI assistant UI here)_
-
----
+<table>
+  <tr>
+    <td><img src="https://github.com/Subho4156/Project_Screenshots/blob/main/ChatLab/Screenshot%202025-06-16%20210845.png?raw=true" alt="Desktop 1" width="250"/></td>
+    <td><img src="https://github.com/Subho4156/Project_Screenshots/blob/main/ChatLab/Screenshot%202025-06-16%20210636.png?raw=true" alt="Desktop 2" width="250"/></td>
+    <td><img src="https://github.com/Subho4156/Project_Screenshots/blob/main/ChatLab/Screenshot%202025-06-16%20210824.png?raw=true" alt="Desktop 3" width="250"/></td>
+    <td><img src="https://github.com/Subho4156/Project_Screenshots/blob/main/ChatLab/Screenshot%202025-06-16%20210958.png?raw=true" alt="Desktop 4" width="250"/></td>
+    <td><img src="https://github.com/Subho4156/Project_Screenshots/blob/main/ChatLab/Screenshot%202025-06-16%20211108.png?raw=true" alt="Desktop 5" width="250"/></td>
+    <td><img src="https://github.com/Subho4156/Project_Screenshots/blob/main/ChatLab/Screenshot%202025-06-16%20211134.png?raw=true" alt="Desktop 3" width="250"/></td>
+  </tr>
+</table>
 
 ## 🧠 AI Assistant Powered by
 
