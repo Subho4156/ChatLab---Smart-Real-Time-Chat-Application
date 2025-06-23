@@ -42,7 +42,7 @@
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/chatlab.git
+   git clone https://github.com/Subho4156/ChatLab---Smart-Real-Time-Chat-Application.git
    cd chatlab
    ```
 
